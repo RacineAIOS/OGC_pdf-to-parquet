@@ -131,5 +131,5 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 ## Author
 
 Léo Appourchaux - AI DEV at TW3/Racine.ai
-https://huggingface.co/Leo-D-M-Appourchaux
-https://github.com/Leo-D-M-Appourchaux
+- https://huggingface.co/Leo-D-M-Appourchaux
+- https://github.com/Leo-D-M-Appourchaux
