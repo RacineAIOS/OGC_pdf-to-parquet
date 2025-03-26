@@ -2,6 +2,10 @@
 
 A tool for converting technical PDF documents into a dataset of query-image pairs stored in Parquet format. This project processes PDFs, renders pages as images, extracts text, generates technical queries using Gemini AI, and stores everything in Parquet files suitable for machine learning applications.
 
+## Examples of datasets created with this method
+
+https://huggingface.co/racineai
+
 ## Overview
 
 OGC_pdf-to-parquet helps create specialized technical datasets by:
@@ -120,3 +124,12 @@ The default naming scheme creates files like `train-00000-of-n.parquet`. To rena
 ## License
 
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+
+
+
+## Author
+
+Léo Appourchaux - AI DEV at TW3/Racine.ai
+https://huggingface.co/Leo-D-M-Appourchaux
+https://github.com/Leo-D-M-Appourchaux
