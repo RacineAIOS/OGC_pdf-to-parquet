@@ -19,8 +19,6 @@ OGC_pdf-to-parquet helps create specialized technical datasets by:
 3. Detecting the document language
 4. Saving the query-image pairs as Parquet files
 
-![schemaOGC](https://github.com/user-attachments/assets/c38ce771-8be1-4af4-940c-2545d5cadce7)
-
 
 ### Setup
 
