@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+
+.env
+
+datasetenv/
+Test/
+out_test/
+Train/
+out_train/
