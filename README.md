@@ -1,4 +1,4 @@
-# OGC_pdf-to-parquet
+# VDR_pdf-to-parquet
 
 A tool for converting technical PDF documents into a dataset of query-image pairs stored in Parquet format. This project processes PDFs, renders pages as images, extracts text, generates technical queries using Gemini AI, and stores everything in Parquet files suitable for machine learning applications.
 
@@ -8,7 +8,7 @@ https://huggingface.co/racineai
 
 ## Overview
 
-OGC_pdf-to-parquet helps create specialized technical datasets by:
+VDR_pdf-to-parquet helps create specialized technical datasets by:
 
 1. Converting PDF pages to high-quality images
 2. Using Gemini AI to generate four types of technical queries for each page:
@@ -24,8 +24,8 @@ OGC_pdf-to-parquet helps create specialized technical datasets by:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/OGC_pdf-to-parquet.git
-   cd OGC_pdf-to-parquet
+   git clone https://github.com/yourusername/VDR_pdf-to-parquet.git
+   cd VDR_pdf-to-parquet
    ```
 
 2. Install dependencies
